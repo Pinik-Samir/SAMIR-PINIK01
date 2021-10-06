@@ -1,1 +1,3 @@
 # SAMIR-PINIK01
+
+#cd SAMIR-PINIK
